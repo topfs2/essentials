@@ -19,8 +19,8 @@
  *
  */
 
-#include "essentials_hashmap.h"
-#include "essentials_linkedlist.h"
+#include <essentials/hashmap.h>
+#include <essentials/linkedlist.h>
 #include <string.h>
 
 struct essentials_hashmap_node_t

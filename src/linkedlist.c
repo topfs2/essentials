@@ -19,7 +19,7 @@
  *
  */
 
-#include "essentials_linkedlist.h"
+#include <essentials/linkedlist.h>
 
 struct essentials_linkedlist_iterator_t
 {
